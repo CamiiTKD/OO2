@@ -118,3 +118,5 @@
 2024-05-02 20:22:29,344 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\camit\Facultad\OO2\Ejercicio8_OO2\src\test\resources
 2024-05-02 20:22:38,813 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-05-02 20:22:38,815 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\camit\Facultad\OO2\Ejercicio9_OO2\src\main\resources
+2024-05-02 20:22:38,819 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 20:22:38,820 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\camit\Facultad\OO2\Ejercicio9_OO2\src\test\resources
