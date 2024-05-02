@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\camit\Facultad\OO2\Ejercicio15_OO2"/>
+			<item value="C:\Users\camit\Facultad\OO2\Ejercicio14_OO2"/>
+			<item value="C:\Users\camit\Facultad\OO2\Ejercicio11_OO2"/>
+			<item value="C:\Users\camit\Facultad\OO2\Ejercicio10_OO2"/>
+			<item value="C:\Users\camit\Facultad\OO2\Ejercicio9_OO2"/>
+			<item value="C:\Users\camit\Facultad\OO2\Ejercicio8_OO2"/>
+			<item value="C:\Users\camit\Facultad\OO2\Ejercicio6_OO2"/>
+			<item value="C:\Users\camit\Facultad\OO2\Ejercicio5_OO2"/>
+			<item value="C:\Users\camit\Facultad\OO2\Ejercicio4_OO2"/>
+			<item value="C:\Users\camit\Facultad\OO2\Ejercicio3_OO2(ej-biblioteca)"/>
+			<item value="C:\Users\camit\Facultad\OO2\Ejercicio2_OO2"/>
+			<item value="C:\Users\camit\Facultad\OO2\Ejercicio1_OO2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
