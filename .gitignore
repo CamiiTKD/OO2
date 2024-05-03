@@ -1,0 +1,19 @@
+# Directorio .metadata de Eclipse
+.metadata/
+
+# Archivos y directorios generados por Eclipse
+bin/
+target/
+.settings/
+.classpath
+.project
+
+# Archivos de compilación Java
+*.class
+
+# Archivos temporales
+*.tmp
+*~
+
+# Archivos de caché
+*.log
